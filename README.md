@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Manuella!
 
-<!--
-**Manuzampieri/Manuzampieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na UNIP  
+💻 Estagiária em Digital Analytics na Metricaz  
+🔧 Interesso por dados, tecnologia e também pela parte de hardware  
 
-Here are some ideas to get you started:
+## 💡 Habilidades
+- Google Analytics (GA4), Google Tag Manager
+- HTML, CSS, JavaScript (básico)
+- Montagem e manutenção de microcomputadores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente aprendendo
+- Java (usando no desenvolvimento do jogo)
+- Android Studio
+- Conceitos de análise digital e tags
+
+## 📫 Como me encontrar:
+- [LinkedIn](www.linkedin.com/in/manuella-zampieri-261538264)
+- Email: manuellasantos.zampieri@gmail.com
