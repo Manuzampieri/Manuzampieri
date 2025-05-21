@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Manuella!
 
-🎓 Estudante de Ciência da Computação na UNIP  
+🎓 Estudante de Ciência da Computação 
 💻 Estagiária em Digital Analytics na Metricaz  
 🔧 Interesso por dados, tecnologia e também pela parte de hardware  
 
